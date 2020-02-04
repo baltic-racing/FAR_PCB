@@ -38,6 +38,23 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=..\..\02 - Digital Circuits\05 - UAC\JLC_GERBERS.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document2]
 DocumentPath=FAR.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -54,12 +71,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XMCMYMVD
 
-[Document2]
-<<<<<<< HEAD
+[Document3]
 DocumentPath=FAR_PCB.PcbDoc
-=======
-DocumentPath=FAR.PcbDoc
->>>>>>> bbab165bf15021b95dbc5451a358c499dddc091e
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -73,11 +86,170 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-<<<<<<< HEAD
 DocumentUniqueId=ETSFQULL
-=======
-DocumentUniqueId=GVELHMPX
->>>>>>> bbab165bf15021b95dbc5451a358c499dddc091e
+
+[Document4]
+DocumentPath=CAMtastic1.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document5]
+DocumentPath=CAMtastic2.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document6]
+DocumentPath=CAMtastic3.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[GeneratedDocument1]
+DocumentPath=.\gerbers\JLC_GERBERS\FAR_PCB.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=gerbers\JLC_GERBERS\FAR_PCB.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=.\gerbers\JLC_GERBERS\FAR_PCB.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=gerbers\JLC_GERBERS\FAR_PCB.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=.\gerbers\JLC_GERBERS\FAR_PCB.G1
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=.\gerbers\JLC_GERBERS\FAR_PCB.G2
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=.\gerbers\JLC_GERBERS\FAR_PCB.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=gerbers\JLC_GERBERS\FAR_PCB.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=.\gerbers\JLC_GERBERS\FAR_PCB.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=gerbers\JLC_GERBERS\FAR_PCB.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=.\gerbers\JLC_GERBERS\FAR_PCB.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=gerbers\JLC_GERBERS\FAR_PCB.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=.\gerbers\JLC_GERBERS\FAR_PCB.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=gerbers\JLC_GERBERS\FAR_PCB.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=.\gerbers\JLC_GERBERS\FAR_PCB.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=gerbers\JLC_GERBERS\FAR_PCB.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=.\gerbers\JLC_GERBERS\FAR_PCB.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=gerbers\JLC_GERBERS\FAR_PCB.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=.\gerbers\JLC_GERBERS\FAR_PCB.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=gerbers\JLC_GERBERS\FAR_PCB.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=.\gerbers\JLC_GERBERS\FAR_PCB.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=gerbers\JLC_GERBERS\FAR_PCB.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=.\gerbers\JLC_GERBERS\FAR_PCB.REP
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=gerbers\JLC_GERBERS\FAR_PCB.REP
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=.\gerbers\JLC_GERBERS\FAR_PCB.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=gerbers\JLC_GERBERS\FAR_PCB.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=.\gerbers\JLC_GERBERS\FAR_PCB.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=gerbers\JLC_GERBERS\FAR_PCB.TXT
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
@@ -194,26 +366,12 @@ OutputName20=WireList Netlist
 OutputDocumentPath20=
 OutputVariantName20=
 OutputDefault20=0
-OutputType21=XSpiceNetlist
-OutputName21=XSpice Netlist
-OutputDocumentPath21=
-OutputVariantName21=
-OutputDefault21=0
 
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-<<<<<<< HEAD
-TargetPrinter=a3drucker
-=======
-TargetPrinter=HP Officejet 5600 series
->>>>>>> bbab165bf15021b95dbc5451a358c499dddc091e
+TargetPrinter=HP Universal Printing PCL 6
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=AdvSimNetlist
-OutputName1=Mixed Sim
-OutputDocumentPath1=
-OutputVariantName1=
-OutputDefault1=0
 
 [OutputGroup3]
 Name=Documentation Outputs
@@ -280,12 +438,6 @@ OutputDocumentPath10=
 OutputVariantName10=
 OutputDefault10=0
 PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType11=PDF3D MBA
-OutputName11=PDF3D MBA
-OutputDocumentPath11=
-OutputVariantName11=
-OutputDefault11=0
-PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup4]
 Name=Assembly Outputs
@@ -832,8 +984,6 @@ Type114=1
 Type115=1
 Type116=1
 Type117=1
-Type118=1
-Type119=1
 
 [Difference Levels]
 Type1=1
@@ -902,8 +1052,6 @@ Type63=1
 Type64=1
 Type65=1
 Type66=1
-Type67=1
-Type68=1
 
 [Electrical Rules Check]
 Type1=1
@@ -1051,7 +1199,6 @@ L17=WNNNNNNNWNNNWWWWN
 [Annotate]
 SortOrder=3
 SortLocation=0
-ReplaceSubparts=0
 MatchParameter1=Comment
 MatchStrictly1=1
 MatchParameter2=Library Reference
@@ -1072,7 +1219,6 @@ NetClassSeparateForBusSections=0
 [LibraryUpdateOptions]
 SelectedOnly=0
 UpdateVariants=1
-UpdateToLatestRevision=1
 PartTypes=0
 FullReplace=1
 UpdateDesignatorLock=1
@@ -1091,7 +1237,6 @@ UpdateCurrentModels=1
 [DatabaseUpdateOptions]
 SelectedOnly=0
 UpdateVariants=1
-UpdateToLatestRevision=1
 PartTypes=0
 
 [Comparison Options]
