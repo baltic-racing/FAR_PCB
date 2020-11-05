@@ -88,6 +88,27 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WLLOKYWA
 
+[Document4]
+DocumentPath=Controller.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=2
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=JFZGSVYS
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for FAR_SMALL\Design Rule Check - FAR_Small_PCB_V1_0.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
